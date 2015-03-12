@@ -1,0 +1,18 @@
+{
+  "name": "FlexibleSlideToTopAccordion",
+  "version": "0.0.1",
+  "homepage": "http://tympanus.net/codrops/2011/10/12/flexible-slide-to-top-accordion/",
+  "authors": [
+    "http://tympanus.net/codrops/author/crnacura/"
+  ],
+  "description": "a simple responsive accordion",
+  "main": "js/jquery.accordion.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
